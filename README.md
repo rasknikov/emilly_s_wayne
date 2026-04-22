@@ -2,7 +2,7 @@
 
 # 🧠 Emilly S. Wayne
 
-### AI Research Engineer — Turning Stochastic Chaos into Autonomous Precision
+### AI Engineer | Research-Driven Systems
 
 [![Azure AI Engineer](https://img.shields.io/badge/Microsoft-Azure_AI_Engineer-0078D4?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/)
 [![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)](https://python.org)
@@ -11,7 +11,7 @@
 [![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?logo=n8n&logoColor=white)](https://n8n.io)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)](https://postgresql.org)
 
-*Engenheira certificada pela Microsoft, unindo física computacional, redes neurais e orquestração multi-agente para construir sistemas que separam sinal de ruído — e executam com precisão.*
+*Engenheira certificada pela Microsoft, unindo física computacional, redes neurais e orquestração multi-agente para construir sistemas que separam sinal de ruído e executam com precisão.*
 
 </div>
 
@@ -26,7 +26,7 @@ A maioria dos projetos de IA falha por não distinguir **complexidade** de **com
 | O Que o Mercado Faz | O Que Eu Construo |
 |---|---|
 | Modelos de ML treinados em preço bruto | Decomposição em **8 camadas hierárquicas** com detrending exato |
-| Pipelines sem visibilidade de custo | ROI tracking em tempo real — **$12k+ de savings mensuráveis** |
+| Pipelines sem visibilidade de custo | ROI tracking em tempo real — **$12k+ de savings mensuráveis** (validated in controlled scenarios) |
 | Chatbots que alucinam sem fallback | Agentes com Tool Calling, circuit breaker e **fallback local (Ollama)** |
 | Protótipos que não sobrevivem à produção | Arquiteturas enterprise com **logs SQL, HMAC auth e CORS** |
 | "IA" que é um wrapper de prompt | Pesquisa com fundamentação matemática — **R² = 0.9504**, Hurst validado |
@@ -113,7 +113,7 @@ flowchart LR
 
 - Dual-agent pipeline: triage em **< 500ms** + resolução RAG em **< 2s**
 - Circuit breaker + **fallback Ollama** para operação 100% local
-- ROI Analytics API com cálculo em tempo real: **$12k+/mês** em net savings
+- ROI Analytics API com cálculo em tempo real: measurable operational savings (~$12k+/mês, validated in controlled scenarios)
 - **15/15 testes passando** ✅
 
 ---
@@ -130,7 +130,7 @@ flowchart LR
 
 ## 🧭 Philosophy
 
-> *"Código é commodity; Arquitetura é Poder."*
+> *"Código é execução. Arquitetura é decisão."*
 
 Minha abordagem não é tentativa e erro. É fundamentada em **certificações globais** e **pesquisa acadêmica rigorosa**. Se o sistema não possui logs de auditoria (SQL), orquestração resiliente (n8n) e uma base física sólida, ele é apenas ruído.
 
